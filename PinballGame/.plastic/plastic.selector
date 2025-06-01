@@ -1,0 +1,4 @@
+repository "PinballGame@Tragnagar@cloud"
+  path "/"
+    br "/main"
+    co "/main"
